@@ -1,0 +1,6 @@
+bash install.sh
+bash setup.sh
+
+Launch Script
+
+python3 cnc.py
